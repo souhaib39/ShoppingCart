@@ -1,0 +1,67 @@
+.navbar-1 {
+   height: 50px;
+}
+
+.container {
+   margin-top: 40px;
+}
+
+.custom-gray-bg {
+   background-color: #f0f0f0;
+}
+
+.add-products {
+   background-color: #f0f0f0;
+   padding-top: 15px;
+}
+
+.form-control {
+   border-color: #ced4da !important;
+}
+
+.btn-custom-green,
+#btn-modal-close,
+#btn-modal-save {
+   background-color: #28a745;
+   border-color: #28a745;
+   color: white;
+}
+
+
+#btn-modal-save:hover {
+   background-color: #218838;
+   border-color: #1e7e34;
+}
+
+
+.text-addNew-Product {
+   margin-bottom: 30px;
+}
+
+#p_models option:checked {
+   color: green;
+   font-weight: bold;
+}
+
+#edit_image {
+   max-width: 100%;
+   height: auto;
+   padding: 5px;
+   background-color: #e9ecef;
+   border-radius: 5px;
+}
+
+#ProductEditModal .modal-content {
+   background-color: #ced4da;
+   border-radius: 10px;
+}
+
+#ProductEditModal .col-md-4 {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.container {
+   margin-top: 70px;
+}
