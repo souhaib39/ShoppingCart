@@ -13,9 +13,6 @@
                 </li>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="#"><i class="fas fa-th-list mr-2"></i>Categories</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link active" href="checkout.php"><i class="fas fa-money-check-alt mr-2"></i>Checkout</a>
                     </li>
                     <li class="nav-item">
